@@ -1,0 +1,66 @@
+.animal-name {
+  text-align: center;
+}
+
+.animals {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.centered-image {
+  width: 50%;
+  height: auto;
+  padding: 20px;
+  border-width: 30px;
+  border: solid black;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box1 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+.box2 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+.box3 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+body {
+  background-color: rgb(65, 138, 221)
+}
